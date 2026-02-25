@@ -1,0 +1,18 @@
+.idea/
+# env
+.venv/
+__pycache__/
+*.pyc
+
+# data (do not commit raw data)
+data/raw/
+data/processed/
+
+# notebooks
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# outputs
+reports/figures/
