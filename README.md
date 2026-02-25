@@ -54,6 +54,12 @@ This project simulates a real-world retention pipeline using:
 
 ---
 
+## 🔍 Model Interpretability (SHAP)
+
+![SHAP Summary](reports/figures/shap_summary.png)
+
+---
+
 ## 🛠 Tech Stack
 
 - Python (pandas, NumPy)

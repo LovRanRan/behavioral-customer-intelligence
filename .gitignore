@@ -1,18 +1,17 @@
+# IDE
 .idea/
-# env
+
+# Environment
 .venv/
 __pycache__/
 *.pyc
 
-# data (do not commit raw data)
+# Data (do not commit raw datasets)
 data/raw/
 data/processed/
 
-# notebooks
+# Jupyter
 .ipynb_checkpoints/
 
 # macOS
 .DS_Store
-
-# outputs
-reports/figures/
